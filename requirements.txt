@@ -1,0 +1,6 @@
+PyMuPDF
+pandas
+flask
+matplotlib
+seaborn
+pytest

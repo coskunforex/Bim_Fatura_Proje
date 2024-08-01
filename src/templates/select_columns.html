@@ -1,0 +1,40 @@
+<!-- src/templates/select_columns.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Columns</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Select Columns</h1>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('index') }}">Home</a></li>
+                <li><a href="{{ url_for('graph') }}">Graph</a></li>
+                <li><a href="{{ url_for('select_columns') }}">Select Columns</a></li>
+                <li><a href="{{ url_for('download_report') }}">Download Report</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form action="{{ url_for('graph') }}" method="post">
+            <div>
+                <label for="x_column">X Axis:</label>
+                <select name="x_column" id="x_column">
+                    <option value="2. Fatura Tarihi">Fatura Tarihi</option>
+                </select>
+            </div>
+            <div>
+                <label for="y_column">Y Axis:</label>
+                <select name="y_column" id="y_column">
+                    <option value="3. Ödenecek Tutar">Ödenecek Tutar</option>
+                </select>
+            </div>
+            <button type="submit">Generate Graph</button>
+        </form>
+    </main>
+</body>
+</html>

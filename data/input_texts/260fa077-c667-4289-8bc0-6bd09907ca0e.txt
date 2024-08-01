@@ -1,0 +1,201 @@
+OSMANGAZİ ELEKTRİK PERAKENDE SATIŞ A.Ş.
+Yenibağlar Mahallesi Eti Caddesi No:28 A/2 
+ Tepebaşı/ ESKİŞEHİR 
+Tel: +90 222 211 28 28Fax: +90 222 201 00 54 
+Çağrı Merkezi: 0850 933 3 999
+Web Sitesi: www.zorluenerji.com.tr
+E-Posta: web@oepsas.com.tr
+kep: osmangaziepsas@hs03.kep.tr
+Vergi Dairesi: Eskişehir V.D.Başkanlığı 
+VKN: 6480597129
+Ticaret Sicil No: 41376
+Oda Sicil No: 45403
+Mersis No: 0-6480-5971-2900023
+e-Fatura
+TEMEL FATURA
+SAYIN
+BİM BİRLEŞİK MAĞAZALAR ANONİM ŞİRKETİ
+ŞİRİNTEPE MAH. YAYLAPINAR SK. S.S.CAN KONUT Y. KP. SİTESİ
+YAYLA SITESI B1.B2.B3.B4. BLOKLARI NO: 74A TEPEBAŞI /
+ESKİŞEHİR 
+26000 TEPEBAŞI/ ESKİŞEHİR 
+E-Posta: dilara.kasapoglu@bim.com.tr
+Tel: Fax:  
+İşletme Kodu:
+026.01.00.01.00
+Tüketici No:
+00002432660
+Sözleşme Hesap No:
+1063253064
+Dosya:
+10888,11
+Sıra:
+122,00
+Tarife Kodu:
+50210
+Tüketici Grubu:
+Tek Terimli Tek Zamanlı Kamu
+ve Özel Hizmetler Sektörü ile
+Diğer AG
+Sorumlu VergiNo:
+Vergi Dairesi:
+BÜYÜK MÜKELLEFLER
+VergiNo/Kimlik No:
+1750051846
+Tekil Kod:
+746428
+(26101000002432660)
+ETSO:
+40Z000000124783F
+Tüketici Sınıfı:
+Son kaynak
+tarifelerinden elektrik
+alan serbest tüketici
+Tesis Adresi:
+SIRINTEPE
+MHYAYLAPINAR CD 74
+B3 BLK
+Sözleşme Gücü:
+10,190
+Günlük Ortalama Tüketim:19,290
+Okuma Dönemi:
+2024/05
+Cari Yıl Tüketimi:
+6.906,495
+Önceki Yıl Tüketimi:
+51.139,721
+Sonraki Okuma Tarihi:
+ETTN:
+260fa077-c667-4289-8bc0-6bd09907ca0e
+Fatura No:EAE2024000051697
+İrsaliye yerine geçer.
+FATURA TARİHİ:31- 05 - 2024
+ÖDENECEK TUTAR:4.509,80 TL
+SON ÖDEME TARİHİ:20- 06 - 2024
+ 
+SAYAÇ BİLGİLERİ
+İlk Okuma Tarihi
+01-05-2024
+AKTİF
+ENDÜKTİF
+KAPASİTİF
+DEMAND
+Son Okuma Tarihi
+31-05-2024
+Sayaç Seri No
+600057282
+600057282
+600057282
+600057282
+ATO
+Sayaç Marka / Tip
+BYL
+BYL
+BYL
+BYL
+GATO
+Çarpan
+1,000
+1,000
+1,000
+1,000
+TÜKETİM BİLGİLERİ
+Tüm Zaman 
+T0 (00.00-24.00)
+Gündüz 
+T1 (06.00-17.00)
+Puant 
+T2 (17.00-22.00)
+Gece 
+T3 (22.00-06.00)
+Endüktif
+Kapasitif
+Son Endeks
+68.345,898
+33.803,338
+16.225,864
+18.316,696
+5.272,343
+1.843,285
+İlk Endeks
+66.088,578
+32.659,412
+15.695,776
+17.733,390
+5.025,596
+1.749,320
+(+,-) Tüketim
+-1.659,340
+0,000
+0,000
+0,000
+0,000
+0,000
+Trafo Kaybı
+0,000
+0,000
+0,000
+0,000
+0,000
+Toplam Tüketim
+597,980
+1.143,926
+530,088
+583,306
+246,747
+93,965
+FATURA BİLGİLERİ
+AÇIKLAMA
+MİKTAR
+BİRİM FİYAT
+NET TUTAR
+ Düşük Kademe ENERJİ TÜKETİM BEDELİ (Tek Zamanlı)
+ KWH
+ 0,07 TL
+ 0,07 TL
+ Yüksek Kademe ENERJİ TÜKETİM BEDELİ (Tek Zamanlı)
+ 597,98KWH
+ 6,143316 TL
+ 3.673,58 TL
+TALİMATLI BANKA    VAR
+TRT PAYI
+SANAYİ SİCİL BELGESİ VİZE BİTİŞ TARİHİ   
+ENERJİ FONU
+OEPSAŞ yoluna Zorlu Enerji olarak devam ediyor.
+MESAJ
+      Not: 
+Ödemelerinizi; Müşteri Hizmetleri Merkezlerimizden,Anlaşmalı Banka ve diğer ödeme noktalarından
+yapabilirsiniz.Ödeme noktaları ve Kredi Kartı masraf bilgilerine 0850 933 3 999 nolu Çağrı
+Merkezimizden ya da www.zorluenerji.com.tr üzerinden ulaşabilirsiniz.Kredi kartı ile yapılan
+ödemelerde masraflar tüketiciye aittir.
+Değerli müşterimiz, şirketimizin sizlere daha iyi hizmet sunabilmesi adına ve Elektrik
+Piyasası Tüketici Hizmetleri Yönetmeliği uyarınca iletişim bilgilerinizin güncel olması
+gerekmektedir. Aylık fatura tutarlarınızdan, bölgedeki kesintilerden ve tüketim
+noktanızdaki açma kesme işlemlerinden haberdar olabilmek için iletişim bilgilerinizi
+size en yakın Müşteri Hizmetleri Merkezimize gelerek ya da 0850 933 3 999 numaralı
+Çağrı Merkezimizi arayarak güncelleyebilirsiniz.
+BTV
+84.57 TL
+KDV MATRAHI (%20)
+3758,22 TL
+KDV (%20)
+751,64 TL
+FATURA TUTARI
+4.509,86 TL
+DAMGA VERGİSİ
+OSMANGAZİ ELEKTRİK PERAKENDE SATIŞ A.Ş.
+ÖDENMEMİŞ FATURA BORCU   0,00 TL
+MUHTELİF TENZİL
+0,00 TL
+FATURA TUTARI(Yazı ile)   DörtBinBeşYüzDokuz TL. Seksen Kr.
+ÖNCEKİ YUVARLAMA
+0,07 TL
+DEVLETE İLETİLECEK VERGİ VE FONLARIN TOPLAMI
+836,21 (SekizYüzOtuzAltı TL. YirmiBir Kr.) TL
+YUVARLAMA
+0,01 TL
+ÖDENECEK TUTAR
+4.509,80 TL
+TAAHHÜT BİLGİLERİ
+AKBANK TR38 0004 6007 8788 8000 1289 83
+Dağıtım Şirketi - Fax :0222 230 15 53 E-mail : osmangaziedas@hs03.kep.tr - info@oedas.com.tr Web : www.osmangaziedas.com.tr Çağrı Merkezi : 186

@@ -1,0 +1,31 @@
+<!-- src/templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Home</h1>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('index') }}">Home</a></li>
+                <li><a href="{{ url_for('graph') }}">Graph</a></li>
+                <li><a href="{{ url_for('download_report') }}">Download Report</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+            <div>
+                <label for="file">Upload CSV File</label>
+                <input type="file" name="file" id="file" required>
+            </div>
+            <button type="submit">Upload</button>
+        </form>
+    </main>
+</body>
+</html>

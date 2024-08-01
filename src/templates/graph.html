@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Graph Page</h1>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('index') }}">Home</a></li>
+                <li><a href="{{ url_for('upload') }}">Upload</a></li>
+                <li><a href="{{ url_for('graph') }}">Graph</a></li>
+                <li><a href="{{ url_for('select_columns') }}">Select Columns</a></li>
+                <li><a href="{{ url_for('download_report') }}">Download Report</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Select Columns for Graph</h2>
+        <form method="post" action="{{ url_for('graph') }}">
+            <label for="x_column">X Column:</label>
+            <select name="x_column" id="x_column">
+                {% for column in titles %}
+                <option value="{{ column }}">{{ column }}</option>
+                {% endfor %}
+            </select>
+            <label for="y_column">Y Column:</label>
+            <select name="y_column" id="y_column">
+                {% for column in titles %}
+                <option value="{{ column }}">{{ column }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Generate Graph</button>
+        </form>
+        {% if plot_path %}
+        <h2>Generated Graph</h2>
+        <img src="{{ plot_path }}" alt="Plot">
+        {% endif %}
+        <h2>Combined Data</h2>
+        {{ tables|safe }}
+    </main>
+    <footer>
+        <p>&copy; 2024 Bim Fatura Proje</p>
+    </footer>
+</body>
+</html>

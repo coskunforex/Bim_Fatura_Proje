@@ -1,0 +1,197 @@
+OSMANGAZİ ELEKTRİK PERAKENDE SATIŞ A.Ş.
+Yenibağlar Mahallesi Eti Caddesi No:28 A/2 
+ Tepebaşı/ ESKİŞEHİR 
+Tel: +90 222 211 28 28Fax: +90 222 201 00 54 
+Çağrı Merkezi: 0850 933 3 999
+Web Sitesi: www.zorluenerji.com.tr
+E-Posta: web@oepsas.com.tr
+kep: osmangaziepsas@hs03.kep.tr
+Vergi Dairesi: Eskişehir V.D.Başkanlığı 
+VKN: 6480597129
+Ticaret Sicil No: 41376
+Oda Sicil No: 45403
+Mersis No: 0-6480-5971-2900023
+e-Fatura
+TEMEL FATURA
+SAYIN
+BİM BİRLEŞİK MAĞAZALAR ANONİM ŞİRKETİ
+GÖKMEYDAN MHBORSA CD 11 
+26000 ODUNPAZARI/ ESKİŞEHİR 
+E-Posta: dilara.kasapoglu@bim.com.tr
+Tel: Fax:  
+İşletme Kodu:
+026.01.00.02.00
+Tüketici No:
+00002086181
+Sözleşme Hesap No:
+1063253071
+Dosya:
+10888,11
+Sıra:
+742,00
+Tarife Kodu:
+50210
+Tüketici Grubu:
+Tek Terimli Tek Zamanlı Kamu
+ve Özel Hizmetler Sektörü ile
+Diğer AG
+Sorumlu VergiNo:
+Vergi Dairesi:
+BÜYÜK MÜKELLEFLER
+VergiNo/Kimlik No:
+1750051846
+Tekil Kod:
+725037
+(26102000002086181)
+ETSO:
+40Z0000001987262
+Tüketici Sınıfı:
+Son kaynak
+tarifelerinden elektrik
+alan serbest tüketici
+Tesis Adresi:
+GÖKMEYDAN MHBORSA
+CD 11
+Sözleşme Gücü:
+17,220
+Günlük Ortalama Tüketim:0,000
+Okuma Dönemi:
+2024/03
+Cari Yıl Tüketimi:
+7.312,336
+Önceki Yıl Tüketimi:
+36.747,069
+Sonraki Okuma Tarihi:
+ETTN:
+10dcd72a-8e79-4ded-8bd2-2608c0570f33
+Fatura No:EAC2024000050689
+İrsaliye yerine geçer.
+FATURA TARİHİ:31- 03 - 2024
+ÖDENECEK TUTAR:5.325,70 TL
+SON ÖDEME TARİHİ:22- 04 - 2024
+ 
+SAYAÇ BİLGİLERİ
+İlk Okuma Tarihi
+01-03-2024
+AKTİF
+ENDÜKTİF
+KAPASİTİF
+DEMAND
+Son Okuma Tarihi
+31-03-2024
+Sayaç Seri No
+600051618
+600051618
+600051618
+600051618
+ATO
+Sayaç Marka / Tip
+BYL
+BYL
+BYL
+BYL
+GATO
+Çarpan
+1,000
+1,000
+1,000
+1,000
+TÜKETİM BİLGİLERİ
+Tüm Zaman 
+T0 (00.00-24.00)
+Gündüz 
+T1 (06.00-17.00)
+Puant 
+T2 (17.00-22.00)
+Gece 
+T3 (22.00-06.00)
+Endüktif
+Kapasitif
+Son Endeks
+44.025,999
+23.783,102
+11.688,711
+8.554,186
+4.350,387
+173,634
+İlk Endeks
+38.972,267
+21.007,516
+10.362,494
+7.602,257
+3.799,356
+152,836
+(+,-) Tüketim
+-5.053,732
+0,000
+0,000
+0,000
+0,000
+0,000
+Trafo Kaybı
+0,000
+0,000
+0,000
+0,000
+0,000
+Toplam Tüketim
+0,000
+2.775,586
+1.326,217
+951,929
+551,031
+20,798
+FATURA BİLGİLERİ
+AÇIKLAMA
+MİKTAR
+BİRİM FİYAT
+NET TUTAR
+ Düşük Kademe ENERJİ TÜKETİM BEDELİ (Tek Zamanlı)
+ KWH
+ 0,01 TL
+ 0,01 TL
+ Yüksek Kademe ENERJİ TÜKETİM BEDELİ (Tek Zamanlı)
+ KWH
+ 4.438,05 TL
+ 4.438,05 TL
+TALİMATLI BANKA    VAR
+TRT PAYI
+SANAYİ SİCİL BELGESİ VİZE BİTİŞ TARİHİ   
+ENERJİ FONU
+OEPSAŞ yoluna Zorlu Enerji olarak devam ediyor.
+MESAJ
+      Not: 
+Ödemelerinizi; Müşteri Hizmetleri Merkezlerimizden,Anlaşmalı Banka ve diğer ödeme noktalarından
+yapabilirsiniz.Ödeme noktaları ve Kredi Kartı masraf bilgilerine 0850 933 3 999 nolu Çağrı
+Merkezimizden ya da www.zorluenerji.com.tr üzerinden ulaşabilirsiniz.Kredi kartı ile yapılan
+ödemelerde masraflar tüketiciye aittir.
+Değerli müşterimiz, şirketimizin sizlere daha iyi hizmet sunabilmesi adına ve Elektrik
+Piyasası Tüketici Hizmetleri Yönetmeliği uyarınca iletişim bilgilerinizin güncel olması
+gerekmektedir. Aylık fatura tutarlarınızdan, bölgedeki kesintilerden ve tüketim
+noktanızdaki açma kesme işlemlerinden haberdar olabilmek için iletişim bilgilerinizi
+size en yakın Müşteri Hizmetleri Merkezimize gelerek ya da 0850 933 3 999 numaralı
+Çağrı Merkezimizi arayarak güncelleyebilirsiniz.
+BTV
+KDV MATRAHI (%20)
+4438,06 TL
+KDV (%20)
+887,61 TL
+FATURA TUTARI
+5.325,67 TL
+DAMGA VERGİSİ
+ÖDENMEMİŞ FATURA BORCU   0,00 TL
+MUHTELİF TENZİL
+0,00 TL
+OSMANGAZİ ELEKTRİK PERAKENDE SATIŞ A.Ş.
+FATURA TUTARI(Yazı ile)   BeşBinÜçYüzYirmiBeş TL. Yetmiş Kr.
+ÖNCEKİ YUVARLAMA
+0,01 TL
+DEVLETE İLETİLECEK VERGİ VE FONLARIN TOPLAMI
+887,61 (SekizYüzSeksenYedi TL. AltmışBir Kr.) TL
+YUVARLAMA
+0,04 TL
+ÖDENECEK TUTAR
+5.325,70 TL
+TAAHHÜT BİLGİLERİ
+AKBANK TR38 0004 6007 8788 8000 1289 83
+Dağıtım Şirketi - Fax :0222 230 15 53 E-mail : osmangaziedas@hs03.kep.tr - info@oedas.com.tr Web : www.osmangaziedas.com.tr Çağrı Merkezi : 186

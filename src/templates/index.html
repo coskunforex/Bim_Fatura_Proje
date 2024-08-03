@@ -1,31 +1,45 @@
-<!-- src/templates/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Grafik Oluştur</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
     <header>
-        <h1>Home</h1>
-        <nav>
-            <ul>
-                <li><a href="{{ url_for('index') }}">Home</a></li>
-                <li><a href="{{ url_for('graph') }}">Graph</a></li>
-                <li><a href="{{ url_for('download_report') }}">Download Report</a></li>
-            </ul>
-        </nav>
+        <h1>Grafik Oluştur</h1>
     </header>
     <main>
-        <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
-            <div>
-                <label for="file">Upload CSV File</label>
-                <input type="file" name="file" id="file" required>
-            </div>
-            <button type="submit">Upload</button>
+        <form action="{{ url_for('grafik_olustur') }}" method="post">
+            <label for="grafik_turu">Grafik Türü:</label>
+            <select name="grafik_turu" id="grafik_turu">
+                <option value="son_endeks_zaman">Son Endeks (Zaman)</option>
+                <option value="son_endeks_gunduz">Son Endeks (Gündüz)</option>
+                <option value="son_endeks_puant">Son Endeks (Puant)</option>
+                <option value="son_endeks_gece">Son Endeks (Gece)</option>
+                <option value="son_endeks_enduktif">Son Endeks (Endüktif)</option>
+                <option value="son_endeks_kapasitif">Son Endeks (Kapasitif)</option>
+                <option value="ilk_endeks_zaman">İlk Endeks (Zaman)</option>
+                <option value="ilk_endeks_gunduz">İlk Endeks (Gündüz)</option>
+                <option value="ilk_endeks_puant">İlk Endeks (Puant)</option>
+                <option value="ilk_endeks_gece">İlk Endeks (Gece)</option>
+                <option value="ilk_endeks_enduktif">İlk Endeks (Endüktif)</option>
+                <option value="ilk_endeks_kapasitif">İlk Endeks (Kapasitif)</option>
+                <option value="tuketim_zaman">Tüketim (Zaman)</option>
+                <option value="tuketim_gunduz">Tüketim (Gündüz)</option>
+                <option value="tuketim_puant">Tüketim (Puant)</option>
+                <option value="tuketim_gece">Tüketim (Gece)</option>
+                <option value="tuketim_enduktif">Tüketim (Endüktif)</option>
+                <option value="tuketim_kapasitif">Tüketim (Kapasitif)</option>
+                <option value="trafo_kaybi">Trafo Kaybı</option>
+                <option value="toplam_tuketim">Toplam Tüketim</option>
+            </select>
+            <button type="submit">Grafik Oluştur</button>
         </form>
     </main>
+    <footer>
+        <p>&copy; 2024 Bim Fatura Proje</p>
+    </footer>
 </body>
 </html>

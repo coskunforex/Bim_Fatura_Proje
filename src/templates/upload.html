@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kolon Seçimi - Enerji Fatura Analizi</title>
+    <title>Dosya Yükle - Enerji Fatura Analizi</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Kolon Seçimi</h1>
+            <h1>Dosya Yükle</h1>
             <nav>
                 <ul>
                     <li><a href="/">Ana Sayfa</a></li>
@@ -22,7 +22,19 @@
     </header>
     <main>
         <div class="container">
-            <p>Bu sayfada kolonları seçebilirsiniz.</p>
+            <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+                <input type="file" name="file">
+                <button type="submit">Yükle</button>
+            </form>
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <ul>
+                        {% for message in messages %}
+                            <li>{{ message }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endwith %}
         </div>
     </main>
     <footer>
